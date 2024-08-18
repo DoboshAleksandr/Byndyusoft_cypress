@@ -1,1 +1,1 @@
-# Byndyusoft_cypress
+# автотест в рамках тестового задания для Byndyusoft написанный с помощью Cypress
